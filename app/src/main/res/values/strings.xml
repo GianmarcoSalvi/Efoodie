@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Efoodie</string>
+
+    <!-- Navigation drawer command strings -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+
+    <string name="nav_header_title">Ana_maria1</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <!-- Hamburger menu strings -->
+    <string name="menu_explore">Explorar</string>
+    <string name="menu_favorites">Recetas guardadas</string>
+    <string name="menu_upload">Subir una receta</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="menu_profile">Perfíl</string>
+    <string name="menu_logout">Salir</string>
+
+</resources>
