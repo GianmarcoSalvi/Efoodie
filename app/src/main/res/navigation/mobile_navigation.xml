@@ -7,20 +7,28 @@
 
     <fragment
         android:id="@+id/nav_explore"
-        android:name="com.example.efoodie.ui.home.HomeFragment"
+        android:name="com.example.efoodie.ui.explore.ExploreFragment"
         android:label="@string/menu_explore"
-        tools:layout="@layout/fragment_home" />
+        tools:layout="@layout/fragment_explore" />
 
     <fragment
         android:id="@+id/nav_favorites"
-        android:name="com.example.efoodie.ui.gallery.GalleryFragment"
+        android:name="com.example.efoodie.ui.favorites.FavoritesFragment"
         android:label="@string/menu_favorites"
-        tools:layout="@layout/fragment_gallery" />
+        tools:layout="@layout/fragment_favorites" />
+
+
+    <activity
+        android:id="@+id/nav_upload"
+        android:name="com.example.efoodie.ui.upload.UploadActivity"
+        android:label="@string/menu_upload"
+        tools:layout="@layout/activity_upload" />
 
     <fragment
-        android:id="@+id/nav_upload"
-        android:name="com.example.efoodie.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_upload"
-        tools:layout="@layout/fragment_slideshow" />
+        android:id="@+id/nav_profile"
+        android:name="com.example.efoodie.ui.profile.ProfileFragment"
+        android:label="@string/menu_profile"
+        tools:layout="@layout/fragment_profile" />
+
 
 </navigation>

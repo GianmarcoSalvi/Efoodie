@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/explore.xml" value="0.151" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_close.xml" value="0.1465" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_explore.xml" value="0.1155" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_logout.xml" value="0.151" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_menu_camera.xml" value="0.151" />
@@ -12,10 +13,19 @@
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_profile_photo.xml" value="0.151" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/side_nav_bar.xml" value="0.151" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/activity_subir.xml" value="0.25" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/activity_upload.xml" value="0.25" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_explore.xml" value="0.1" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_favorite.xml" value="0.25" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_favorites.xml" value="0.25" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_subir.xml" value="0.25" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/menu/activity_upload_menu.xml" value="0.25" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/menu/main.xml" value="0.25" />
       </map>
     </option>

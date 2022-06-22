@@ -6,7 +6,6 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
 
-
     <string name="nav_header_title">Ana_maria1</string>
     <string name="nav_header_desc">Navigation header</string>
 
@@ -18,5 +17,9 @@
     <string name="menu_settings">Ajustes</string>
     <string name="menu_profile">Perfíl</string>
     <string name="menu_logout">Salir</string>
+
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
 
 </resources>

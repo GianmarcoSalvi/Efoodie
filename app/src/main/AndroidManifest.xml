@@ -9,6 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Efoodie">
+
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -20,6 +22,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".ui.upload.UploadActivity"
+            android:label="@string/menu_upload"
+            android:theme="@style/Theme.Efoodie.Upload"
+            android:parentActivityName=".MainActivity"
+            />
     </application>
 
 </manifest>
