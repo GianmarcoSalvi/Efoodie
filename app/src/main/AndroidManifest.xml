@@ -15,7 +15,7 @@
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.Efoodie.NoActionBar">
+            android:theme="@style/Theme.Efoodie">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -26,9 +26,18 @@
         <activity
             android:name=".ui.upload.UploadActivity"
             android:label="@string/menu_upload"
-            android:theme="@style/Theme.Efoodie.Upload"
             android:parentActivityName=".MainActivity"
-            />
+            android:theme="@style/Theme.Efoodie.ActionBar" />
+
+        <activity
+            android:name=".ui.explore.FiltersActivity"
+            android:label="@string/filters"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.Efoodie.ActionBar">
+
+        </activity>
+
+
     </application>
 
 </manifest>

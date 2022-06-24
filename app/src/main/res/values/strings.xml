@@ -21,5 +21,20 @@
     <string name="tab_text_1">Tab 1</string>
     <string name="tab_text_2">Tab 2</string>
 
+    <string name="query_hint">Buscar una receta...</string>
+    <string name="filters">Filtros de búsqueda</string>
+
+    <string name="sort">Ordernar por</string>
+
+
+    <string name="hint_order">Ordenar por...</string>
+    <string-array name="sort_array">
+        <item>Alfabético</item>
+        <item>Más nueva</item>
+        <item>Más antigua</item>
+        <item>Valoración</item>
+        <item>Usuario A-Z</item>
+        <item>Usuario Z-A</item>
+    </string-array>
 
 </resources>

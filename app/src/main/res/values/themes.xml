@@ -22,10 +22,12 @@
 
     </style>
 
+
+    <!--
     <style name="Theme.Efoodie.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
-    </style>
+    </style> -->
 
     <style name="Theme.Efoodie.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
 
