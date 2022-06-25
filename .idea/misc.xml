@@ -8,31 +8,46 @@
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/explore.xml" value="0.151" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/filter_spinner_bg.xml" value="0.216" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/filters_button.xml" value="0.1505" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/floating_btn.xml" value="0.1565" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_arrow_dropdown.xml" value="0.216" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_chef.xml" value="0.2195" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_close.xml" value="0.1465" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_explore.xml" value="0.1155" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_favorite_card.xml" value="0.2125" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_favorites.xml" value="0.2125" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_favorites_filled.xml" value="0.2125" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_filters.xml" value="0.1465" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_logout.xml" value="0.151" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_menu_camera.xml" value="0.151" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.151" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.151" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_profile.xml" value="0.2195" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_profile_photo.xml" value="0.151" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_search.xml" value="0.1505" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/ic_share.xml" value="0.1565" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/drawable/side_nav_bar.xml" value="0.151" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/activity_filters.xml" value="0.25" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/activity_receta.xml" value="0.2" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/activity_subir.xml" value="0.25" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/activity_upload.xml" value="0.25" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/card_layout.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/card_receta_layout.xml" value="0.24895833333333334" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/dropdown_item.xml" value="0.25" />
-        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_explore.xml" value="0.264" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_explore.xml" value="0.4" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_favorite.xml" value="0.25" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_favorites.xml" value="0.25" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_ingredientes.xml" value="0.264" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_receta.xml" value="0.264" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_subir.xml" value="0.25" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/fragment_valoraciones.xml" value="0.25" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/item_list.xml" value="0.24895833333333334" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/layout/receta_card.xml" value="0.6" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/menu/activity_upload_menu.xml" value="0.25" />
         <entry key="..\:/Users/Gianmarco/AndroidStudioProjects/Efoodie/app/src/main/res/menu/main.xml" value="0.25" />

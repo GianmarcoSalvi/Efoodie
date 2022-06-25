@@ -1,11 +1,16 @@
 package com.example.efoodie;
 
+import static com.example.efoodie.R.drawable.ic_favorites;
+import static com.example.efoodie.R.drawable.ic_favorites_filled;
+
 import android.content.Context;
 import android.os.Bundle;
 import android.view.View;
 import android.view.Menu;
 import android.view.WindowManager;
 import android.view.inputmethod.InputMethodManager;
+import android.widget.CompoundButton;
+import android.widget.ToggleButton;
 
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
@@ -69,6 +74,7 @@ public class MainActivity extends AppCompatActivity {
                 closeKeyboard_clearFocus();
             }
         });
+
     }
 
     @Override
@@ -86,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
             InputMethodManager inputMethodManager = (InputMethodManager)
                     getSystemService(Context.INPUT_METHOD_SERVICE);
             inputMethodManager.hideSoftInputFromWindow(view.getWindowToken(), 0);
-            view.clearFocus();
+            view.clearFocus(); // clear focus in text input
         }
     }
 

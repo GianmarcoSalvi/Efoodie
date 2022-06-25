@@ -10,7 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Efoodie">
 
+        <activity
+            android:name=".receta.RecetaActivity"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.Efoodie.ActionBar">
 
+        </activity>
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -22,22 +27,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <activity
             android:name=".ui.upload.UploadActivity"
             android:label="@string/menu_upload"
             android:parentActivityName=".MainActivity"
             android:theme="@style/Theme.Efoodie.ActionBar" />
-
         <activity
             android:name=".ui.explore.FiltersActivity"
             android:label="@string/filters"
             android:parentActivityName=".MainActivity"
-            android:theme="@style/Theme.Efoodie.ActionBar">
-
-        </activity>
-
-
+            android:theme="@style/Theme.Efoodie.ActionBar" />
     </application>
 
 </manifest>

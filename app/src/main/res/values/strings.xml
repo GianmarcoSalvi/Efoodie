@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Efoodie</string>
 
     <!-- Navigation drawer command strings -->
@@ -18,10 +18,11 @@
     <string name="menu_profile">Perfíl</string>
     <string name="menu_logout">Salir</string>
 
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_1">Receta</string>
+    <string name="tab_text_2">Ingredientes</string>
+    <string name="tab_text_3">Valoraciones</string>
 
-    <string name="query_hint">Buscar una receta...</string>
+    <string name="query_hint">Buscar receta o usuario...</string>
     <string name="filters">Filtros de búsqueda</string>
 
     <string name="sort">Ordernar por</string>
@@ -31,10 +32,18 @@
     <string-array name="sort_array">
         <item>Alfabético</item>
         <item>Más nueva</item>
-        <item>Más antigua</item>
         <item>Valoración</item>
         <item>Usuario A-Z</item>
-        <item>Usuario Z-A</item>
+        <item >Usuario fecha</item>
     </string-array>
+
+
+    <string name="descripcion_receta" tools:ignore="TypographyEllipsis">
+        Para empezar, a preparar pizza vegana en casa puedes asegurarte de elegir alimentos frescos, de calidad y más nutritivos; es decir, puedes priorizar ingredientes naturales y saludables. Esto, a su vez, te permite evitar los conservantes y los aditivos, así como controlar la cantidad de sal.
+
+La dieta vegana se basa en no consumir ningún alimento de procedencia animal. A una pizza vegana le puedes añadir vegetales, fruta, semillas, frutos secos, legumbres cocidas o en crema, texturizadas o fermentadas...
+
+Algunos de los ingredientes típicos de la pizza, como el queso, son de origen animal, por lo que debemos optar por alternativas vegetales como, por ejemplo, queso vegano de soja que puedes preparar en casa con el Cheese Maker.
+    </string>
 
 </resources>
